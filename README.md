@@ -1,2 +1,2 @@
 # ddn-resolusi
-Belajar GitHub
+Repositori untuk menyimpan dokumen rencana belajar
