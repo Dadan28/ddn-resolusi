@@ -2,6 +2,9 @@ Rencana Baru
 - Belajar Framework Laravel
 - JavaScript
   * React JS
-  * Angular
-  * JQuery
+  * Vue JS
+- PHP Framework
+  *Cake PHP
+  *Shimfony
+- Phyton
 - Belajar OOP dan OOAD
