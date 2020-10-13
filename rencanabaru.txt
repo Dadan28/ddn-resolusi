@@ -3,3 +3,4 @@ Rencana Baru
 - Belajar Framework Laravel
 - JavaScript
   * React JS
+- Belajar OOP dan OOAD
