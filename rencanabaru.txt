@@ -1,6 +1,7 @@
 Rencana Baru
-- Belajar Framework YII
 - Belajar Framework Laravel
 - JavaScript
   * React JS
+  * Angular
+  * JQuery
 - Belajar OOP dan OOAD
