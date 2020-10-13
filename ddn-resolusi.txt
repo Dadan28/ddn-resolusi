@@ -4,3 +4,5 @@ DDN Resolusi
 - Belajar API
 - Belajar DOM JavaScript
 - Belajar Ajax 
+- Membuat aplikasi Login Codeigniter
+- Membuat aplikasi POS dengan Codeigniter
