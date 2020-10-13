@@ -1,7 +1,7 @@
 DDN Resolusi
 - Belajar GitHub
 - Belajar Git
-- Belajar API
+- Belajar CSS
 - Belajar DOM JavaScript
 - Belajar Ajax 
 - Membuat aplikasi Login Codeigniter
