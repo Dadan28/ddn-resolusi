@@ -3,4 +3,9 @@ Rencana Baru
 - Belajar Framework Laravel
 - JavaScript
   * React JS
+  * Vue JS
+- PHP Framework
+  *Cake PHP
+  *Shimfony
+- Phyton
 - Belajar OOP dan OOAD
